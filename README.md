@@ -1,4 +1,4 @@
-# White-Wine-EDA
+# White Wine Exploratory Data Analysis with R
 
 ## Data Analysis Project - Udacity Data Analyst Nanodegree
 
