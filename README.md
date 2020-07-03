@@ -14,6 +14,8 @@ This project was developed in 2020 and is no longer maintained.
 
 ## About
 
-Udacity's Exploratory Data Analysis with R - White Wine quality analysis
+Udacity's Exploratory Data Analysis with R - White Wine quality analysis.
 
+This project investigated a sample of white wines that included ratings given by wine experts. 
 
+Various chemical compositions were looked at to determine characteristics that are common in high quality wines.
